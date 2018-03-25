@@ -1,7 +1,7 @@
 # RaceCoin Core 0.2 (rebirth from 0.12.2)
 
 <p align="center">
-  <a href="https://www.racecrypto.com">Homepage</a> | <a href="http://explorer.racecurrency.com/">Block Explorer</a> | <a href="https://discord.gg/knxGVP">Discord</a> | <a href="https://twitter.com/RaceCryptoCoin">Twitter</a>
+  <a href="https://www.racecurrency.com">Homepage</a> | <a href="http://explorer.racecurrency.com/">Block Explorer</a> | <a href="https://discord.gg/knxGVP">Discord</a> | <a href="https://twitter.com/RaceCryptoCoin">Twitter</a>
 </p>
 
 ## About Race
