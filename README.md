@@ -1,28 +1,14 @@
-# Race Core staging tree 0.12.2
+# RaceCoin Core 0.2 (rebirth from 0.12.2)
+
 <p align="center">
-<a href="https://travis-ci.org/racecrypto/race" alt="Build Status">
-<img src="https://travis-ci.org/racecrypto/racecoin.svg?branch=master"/>
-</a>
-<a href="https://github.com/racecrypto/racecoin/releases" alt="GIT Releases">
-<img src="https://img.shields.io/github/downloads/racecoin/race/total.svg"/>
-</a>
-<a href="https://discord.gg/knxGVP" alt="Discord">
-<img src="https://img.shields.io/discord/402827967111233546.svg"/>
-  </a>
-<a href="https://twitter.racecrypto.com" alt="Twitter">
-<img src="https://img.shields.io/twitter/follow/race_crypto.svg?style=social&label=Follow"/>
-</a>
-</p>
-<p align="center">
-  <a href="https://www.racecrypto.com">https://www.racecrypto.com</a> | <a href="http://explorer.racecurrency.com/">Block Explorer</a> | <a href="https://ann.racecrypto.com">Announcement</a> | <a href="https://discord.gg/knxGVP">Discord</a> | <a href="https://twitter.racecrypto.com">Twitter</a>
+  <a href="https://www.racecrypto.com">Homepage</a> | <a href="http://explorer.racecurrency.com/">Block Explorer</a> | <a href="https://discord.gg/knxGVP">Discord</a> | <a href="https://twitter.com/RaceCryptoCoin">Twitter</a>
 </p>
 
 ## About Race
 
-RACE offers highly secured, anonymous transactions across the world. RACE supports Masternodes with a superb block reward. Features as Private Send and Instant Send make RACE a future-oriented currency on the market. RACE uses peer-to-peer technology to operate with no central authority: managing transactions and issuing money are carried out collectively by the network. Race Core is the name of the open source software which enables the use of this currency. Race Core is based on the newest [Dash](https://www.dash.org) codebase and is its own currency.
+RaceCoin (shortly: RACE) offers highly secured, anonymous transactions across the world. RACE supports Masternodes with a superb block reward. Features as Private Send and Instant Send make RACE a future-oriented currency on the market. RACE uses peer-to-peer technology to operate with no central authority: managing transactions and issuing money are carried out collectively by the network. RaceCoin Core is the name of the open source software which enables the use of this currency. RaceCoin Core is based on the [Dash](https://www.dash.org) codebase and is its own currency.
 
-For more information, as well as an immediately useable, binary version of
-the Race Core software, see https://www.racecrypto.com
+RaceCoin was taken over by a community of passionate volunteers after the original developers abandoned the project.
 
 ## Race Specifications
 
@@ -39,14 +25,14 @@ the Race Core software, see https://www.racecrypto.com
 
 ## License
 
-Race Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+RaceCoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
 
 ## Development Process
 
 The `master` branch is meant to be stable. Development is normally done in separate branches.
 [Tags](https://github.com/racecrypto/race/tags) are created to indicate new official,
-stable release versions of Race Core.
+stable release versions of RaceCoin Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -76,3 +62,14 @@ Changes should be tested by somebody other than the developer who wrote the
 code. This is especially important for large or high-risk changes. It is useful
 to add a test plan to the pull request description if testing the changes is
 not straightforward.
+
+### Important
+
+RaceCoin is a project revived by the community. The takeover is still in progress, which means licencing information may not be fully correct at this moment. We do our best to update everything as soon as possible, and handle all tools we use according to the corresponding legal conditions.
+
+
+
+
+
+
+
